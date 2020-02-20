@@ -1,0 +1,522 @@
+* Mounting host path /Users/bryansandoval/projects/kubest into VM as /Users/bryansandoval/projects/kubest ...
+  - Mount type:   <no value>
+  - User ID:      docker
+  - Group ID:     docker
+  - Version:      9p2000.L
+  - Message Size: 262144
+  - Permissions:  755 (-rwxr-xr-x)
+  - Options:      map[]
+* Userspace file server: ufs starting
+* Successfully mounted /Users/bryansandoval/projects/kubest to /Users/bryansandoval/projects/kubest
+
+* NOTE: This process must stay alive for the mount to be accessible ...
+* Mounting host path /Users/bryansandoval/projects/kubest into VM as /Users/bryansandoval/projects/kubest ...
+  - Mount type:   <no value>
+  - User ID:      docker
+  - Group ID:     docker
+  - Version:      9p2000.L
+  - Message Size: 262144
+  - Permissions:  755 (-rwxr-xr-x)
+  - Options:      map[]
+* Userspace file server: ufs starting
+* Successfully mounted /Users/bryansandoval/projects/kubest to /Users/bryansandoval/projects/kubest
+
+* NOTE: This process must stay alive for the mount to be accessible ...
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/abbrev.js.429510826 to abbrev.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/abbrev.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/abbrev.js.429510826 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/abbrev.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/README.md.3576267469 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/README.md.3576267469 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/LICENSE.3604316085 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/LICENSE.3604316085 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/README.md.3603742277 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/README.md.3603742277 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/.npmignore.1269296945 to .npmignore
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/.npmignore
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/.npmignore.1269296945 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/.npmignore gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/README.md.3277430267 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/README.md.3277430267 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/package.json.3115226163 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/package.json.3115226163 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-33ec0b60/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/LICENSE.md.2455617934 to LICENSE.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/LICENSE.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/LICENSE.md.2455617934 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/LICENSE.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/index.js.2964763689 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/index.js.2964763689 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/package.json.407745058 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/package.json.407745058 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/CHANGES.md.2631067307 to CHANGES.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/CHANGES.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/CHANGES.md.2631067307 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/CHANGES.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/index.js.2449075105 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/index.js.2449075105 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/LICENSE.1949286539 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/LICENSE.1949286539 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/LICENSE.348846144 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/LICENSE.348846144 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-8af27c69/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/README.md.432199717 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/README.md.432199717 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/index.js.3177236856 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/index.js.3177236856 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/index.js.498252091 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/index.js.498252091 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/package.json.1205635907 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/package.json.1205635907 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/package.json.3244593013 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/package.json.3244593013 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/LICENSE.1349461514 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/LICENSE.1349461514 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/license.3151830158 to license
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/license
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/license.3151830158 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/license gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/package.json.297155437 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/package.json.297155437 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/README.md.1226630097 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/README.md.1226630097 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-76631fe4/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/index.js.88267714 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/index.js.88267714 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/README.md~.3040859637 to README.md~
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/README.md~
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/README.md~.3040859637 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/README.md~ gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/license.2016344658 to license
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/license
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/license.2016344658 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/license gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/index.js.3260261127 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/index.js.3260261127 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/readme.md.1044953361 to readme.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/readme.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/readme.md.1044953361 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-da81bb34/readme.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/readme.md.1232476985 to readme.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/readme.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/readme.md.1232476985 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-637d3488/readme.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/LICENSE.938446018 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/LICENSE.938446018 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/README.md.589118530 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/README.md.589118530 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/LICENSE.3556760826 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/LICENSE.3556760826 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/index.js.229505597 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/index.js.229505597 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/.travis.yml.3542761733 to .travis.yml
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/.travis.yml
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/.travis.yml.3542761733 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/.travis.yml gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/README.markdown.2827991281 to README.markdown
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/README.markdown
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/README.markdown.2827991281 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/README.markdown gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/LICENSE.138557865 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/LICENSE.138557865 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/README.md.1931584421 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/README.md.1931584421 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/chownr.js.2639793466 to chownr.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/chownr.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/chownr.js.2639793466 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/chownr.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/package.json.189157558 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/package.json.189157558 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-94bcb95c/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/index.js.2737841646 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/index.js.2737841646 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/package.json.1022923704 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/package.json.1022923704 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-9a97b7b2/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/package.json.106560349 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/package.json.106560349 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-stream.js.1351787979 to tracker-stream.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-stream.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-stream.js.1351787979 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-stream.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-group.js.2016859758 to tracker-group.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-group.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-group.js.2016859758 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-group.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-base.js.118440862 to tracker-base.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-base.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-base.js.118440862 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker-base.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/package.json.3678154199 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/package.json.3678154199 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/package.json.899802713 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/package.json.899802713 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-7dfb5e70/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/example/map.js.513599072 to map.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/example/map.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/example/map.js.513599072 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/example/map.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/test/map.js.3536114937 to map.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/test/map.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/test/map.js.3536114937 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-38c0f4be/test/map.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/LICENSE.900498016 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/LICENSE.900498016 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/README.md.1682265005 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/README.md.1682265005 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/chownr.js.2968570952 to chownr.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/chownr.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/chownr.js.2968570952 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/chownr.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/package.json.2951219078 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/package.json.2951219078 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/LICENSE.2276969990 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/LICENSE.2276969990 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/LICENSE.1393284064 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/LICENSE.1393284064 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/README.md.1868687602 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/README.md.1868687602 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-8e76e2d3/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/index.js.1919721836 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/index.js.1919721836 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/index.js.919754660 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/index.js.919754660 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/index.js.455912558 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/index.js.455912558 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/README.md.2664539548 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/README.md.2664539548 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/package.json.74791394 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/package.json.74791394 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-a5288549/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/README.md.1215739528 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/README.md.1215739528 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/README.md~.2113791344 to README.md~
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/README.md~
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/README.md~.2113791344 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/README.md~ gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/package.json.4182904405 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/package.json.4182904405 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-da132503/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/index.js.801590874 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/index.js.801590874 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/license.4053492261 to license
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/license
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/license.4053492261 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/license gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/LICENSE.992649450 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/LICENSE.992649450 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/LICENSE.md.2005521374 to LICENSE.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/LICENSE.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/LICENSE.md.2005521374 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/LICENSE.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/package.json.690581394 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/package.json.690581394 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/README.md.3488480454 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/README.md.3488480454 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/README.md.1168948443 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/README.md.1168948443 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/.npmignore.3674601053 to .npmignore
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/.npmignore
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/.npmignore.3674601053 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/.npmignore gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/readme.md.2825631340 to readme.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/readme.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/readme.md.2825631340 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-850b5a7e/readme.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/CHANGES.md.2951958571 to CHANGES.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/CHANGES.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/CHANGES.md.2951958571 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/CHANGES.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/index.js.3763510936 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/index.js.3763510936 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/LICENSE.2841065305 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/LICENSE.2841065305 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/README.md.848624051 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/README.md.848624051 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/index.js.2300977327 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/index.js.2300977327 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/LICENSE.3522799950 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/LICENSE.3522799950 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/.travis.yml.2504001517 to .travis.yml
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/.travis.yml
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/.travis.yml.2504001517 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/.travis.yml gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/package.json.2119655783 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/package.json.2119655783 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/abbrev.js.4150018481 to abbrev.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/abbrev.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/abbrev.js.4150018481 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-ca29769a/abbrev.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/README.markdown.2230606177 to README.markdown
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/README.markdown
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/README.markdown.2230606177 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/README.markdown gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/LICENSE.2353925382 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/LICENSE.2353925382 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/license.4080084673 to license
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/license
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/license.4080084673 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/license gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/index.js.710126293 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/index.js.710126293 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/package.json.3412339439 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/package.json.3412339439 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/readme.md.1688014500 to readme.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/readme.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/readme.md.1688014500 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-ab98333f/readme.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker.js.3928465180 to tracker.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker.js.3928465180 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-7411d282/tracker.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/index.js.676344307 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/index.js.676344307 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/package.json.3491850323 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/package.json.3491850323 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-06b125f3/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/package.json.2910967664 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/package.json.2910967664 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-bf832f0e/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-base.js.2283110697 to tracker-base.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-base.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-base.js.2283110697 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-base.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/package.json.3211125240 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/package.json.3211125240 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-stream.js.662029323 to tracker-stream.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-stream.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-stream.js.662029323 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-stream.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-group.js.3914611463 to tracker-group.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-group.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-group.js.3914611463 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker-group.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/package.json.3442590306 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/package.json.3442590306 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/example/map.js.1727594543 to map.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/example/map.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/example/map.js.1727594543 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/example/map.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/test/map.js.1733863865 to map.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/test/map.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/test/map.js.1733863865 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-a3bd9db2/test/map.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker.js.2528058374 to tracker.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker.js.2528058374 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a6fd729/tracker.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/package.json.999006517 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/package.json.999006517 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/README.md.440152620 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/README.md.440152620 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/index.js.1938812758 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/index.js.1938812758 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/chownr.js.612570948 to chownr.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/chownr.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/chownr.js.612570948 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/chownr.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/license.4272935954 to license
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/license
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/license.4272935954 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/license gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/readme.md.1804273388 to readme.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/readme.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/readme.md.1804273388 to /Users/bryansandoval/projects/kubest/node_modules/.staging/ansi-regex-9e1ec6e4/readme.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/LICENSE.1142275742 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/LICENSE.1142275742 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/README.markdown.565641370 to README.markdown
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/README.markdown
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/README.markdown.565641370 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/README.markdown gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/package.json.4270722126 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/package.json.4270722126 to /Users/bryansandoval/projects/kubest/node_modules/.staging/chownr-e495911f/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/.travis.yml.1858126332 to .travis.yml
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/.travis.yml
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/.travis.yml.1858126332 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/.travis.yml gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/README.md.557488076 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/README.md.557488076 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/LICENSE.1722973746 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/LICENSE.1722973746 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/README.md.124907127 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/README.md.124907127 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/index.js.4101793844 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/index.js.4101793844 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/LICENSE.4017673533 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/LICENSE.4017673533 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/LICENSE.3464544456 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/LICENSE.3464544456 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/index.js.265560748 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/index.js.265560748 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/package.json.688395154 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/package.json.688395154 to /Users/bryansandoval/projects/kubest/node_modules/.staging/brace-expansion-00afc6d6/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/README.md.472635939 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/README.md.472635939 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/package.json.421507814 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/package.json.421507814 to /Users/bryansandoval/projects/kubest/node_modules/.staging/aproba-3a9a81bb/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/LICENSE.md.560517129 to LICENSE.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/LICENSE.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/LICENSE.md.560517129 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/LICENSE.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/abbrev.js.773037272 to abbrev.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/abbrev.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/abbrev.js.773037272 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/abbrev.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/.npmignore.1904263463 to .npmignore
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/.npmignore
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/.npmignore.1904263463 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/.npmignore gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/package.json.38927511 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/package.json.38927511 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/README.md.2582938925 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/README.md.2582938925 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/LICENSE.3119701376 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/LICENSE.3119701376 to /Users/bryansandoval/projects/kubest/node_modules/.staging/abbrev-19ad4847/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/package.json.1960922689 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/package.json.1960922689 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/readme.md.1480038586 to readme.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/readme.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/readme.md.1480038586 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/readme.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/README.md~.94622897 to README.md~
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/README.md~
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/README.md~.94622897 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/README.md~ gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/index.js.2972856774 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/index.js.2972856774 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/index.js.1037861657 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/index.js.1037861657 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/license.2967451331 to license
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/license
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/license.2967451331 to /Users/bryansandoval/projects/kubest/node_modules/.staging/code-point-at-6669705a/license gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/README.md.972412448 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/README.md.972412448 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/index.js.31071921 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/index.js.31071921 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/LICENSE.4231066259 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/LICENSE.4231066259 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/CHANGES.md.2548424122 to CHANGES.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/CHANGES.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/CHANGES.md.2548424122 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/CHANGES.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/LICENSE.1651352405 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/LICENSE.1651352405 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/README.md.2025174912 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/README.md.2025174912 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/index.js.3633213349 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/index.js.3633213349 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/index.js.2840295021 to index.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/index.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/index.js.2840295021 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/index.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/package.json.3981915074 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/package.json.3981915074 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-base.js.2411909110 to tracker-base.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-base.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-base.js.2411909110 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-base.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/package.json.965845366 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/package.json.965845366 to /Users/bryansandoval/projects/kubest/node_modules/.staging/console-control-strings-c135b31d/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/package.json.178748498 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/package.json.178748498 to /Users/bryansandoval/projects/kubest/node_modules/.staging/balanced-match-a162136b/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/package.json.480989519 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/package.json.480989519 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/example/map.js.791977047 to map.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/example/map.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/example/map.js.791977047 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/example/map.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-group.js.1405519987 to tracker-group.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-group.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-group.js.1405519987 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-group.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-stream.js.2529529921 to tracker-stream.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-stream.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-stream.js.2529529921 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker-stream.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/test/map.js.1910811655 to map.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/test/map.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/test/map.js.1910811655 to /Users/bryansandoval/projects/kubest/node_modules/.staging/concat-map-40465c47/test/map.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker.js.4253044598 to tracker.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker.js
+rename /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker.js.4253044598 to /Users/bryansandoval/projects/kubest/node_modules/.staging/are-we-there-yet-3a2789c9/tracker.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver to .semver.DELETE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/.semver.DELETE
+rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver to /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/.semver.DELETE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/README.md.1255088927 to README.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/README.md
+rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/README.md.1255088927 to /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/README.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/LICENSE.2176806384 to LICENSE
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/LICENSE
+rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/LICENSE.2176806384 to /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/LICENSE gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/CHANGELOG.md.1530717350 to CHANGELOG.md
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/CHANGELOG.md
+rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/CHANGELOG.md.1530717350 to /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/CHANGELOG.md gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/package.json.2068757988 to package.json
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/package.json
+rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/package.json.2068757988 to /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/package.json gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/semver.js.863589820 to semver.js
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/semver.js
+rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/semver.js.863589820 to /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/semver.js gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/range.bnf.444065065 to range.bnf
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/range.bnf
+rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/range.bnf.444065065 to /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/range.bnf gets <nil>
+Rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/bin/semver.2726525380 to semver
+rel  results in /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/bin/semver
+rename /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/bin/semver.2726525380 to /Users/bryansandoval/projects/kubest/node_modules/@babel/compat-data/node_modules/semver/bin/semver gets <nil>
+* Mounting host path /Users/bryansandoval/projects/kubest into VM as /Users/bryansandoval/projects/kubest ...
+  - Mount type:   <no value>
+  - User ID:      docker
+  - Group ID:     docker
+  - Version:      9p2000.L
+  - Message Size: 262144
+  - Permissions:  755 (-rwxr-xr-x)
+  - Options:      map[]
+* Userspace file server: ufs starting
+* Successfully mounted /Users/bryansandoval/projects/kubest to /Users/bryansandoval/projects/kubest
+
+* NOTE: This process must stay alive for the mount to be accessible ...
+* Mounting host path /Users/bryansandoval/projects/kubest into VM as /Users/bryansandoval/projects/kubest ...
+  - Mount type:   <no value>
+  - User ID:      docker
+  - Group ID:     docker
+  - Version:      9p2000.L
+  - Message Size: 262144
+  - Permissions:  755 (-rwxr-xr-x)
+  - Options:      map[]
+* Userspace file server: ufs starting
+* Successfully mounted /Users/bryansandoval/projects/kubest to /Users/bryansandoval/projects/kubest
+
+* NOTE: This process must stay alive for the mount to be accessible ...

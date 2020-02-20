@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daee108b-0524-42c6-95d1-041a5b319c09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13.1/libexec" />
+  <component name="ProjectId" id="1XujKPbhJ2oIislzRtDZnnrIjfw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Bash" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1226" y="351" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582071127884">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1226" y="351" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/0.23.1680.1027/-3840.23.1920.1057@-1920.23.1920.1057" timestamp="1582071127884" />
+    <state x="341" y="175" key="SettingsEditor" timestamp="1581903400256">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1581903400256" />
+    <state x="-1362" y="284" width="804" height="534" key="find.popup" timestamp="1582158586342">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1362" y="284" width="804" height="534" key="find.popup/-1920.23.1920.1057/0.23.1680.1027/-3840.23.1920.1057@-1920.23.1920.1057" timestamp="1582158586342" />
+    <state x="488" y="277" width="703" height="518" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1581981208142" />
+  </component>
+</project>
