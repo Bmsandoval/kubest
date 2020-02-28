@@ -31,14 +31,14 @@ spec:
             - "/bin/sh"
             - "-c"
             - |
-              cd /src
+              cd /src/deployments/submodules/kubest
               npm install
               while true; do
                 npm start
               done
           volumeMounts:
             - mountPath: /src
-              name: js-source
+              name: project-source
             - mountPath: /home/node/.npm
               name: npm-location
             - mountPath: /src/node_modules
@@ -73,9 +73,9 @@ spec:
         {{- toYaml . | nindent 8 }}
     {{- end }}
       volumes:
-        - name: js-source
+        - name: project-source
           hostPath:
-            path: {{ .Values.Kubest.Volumes.Source }}
+            path: {{ .Values.Kubest.Volumes.ProjectSource }}
         - name: npm-location
           emptyDir: {}
         - name: node-modules

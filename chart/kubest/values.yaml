@@ -6,7 +6,7 @@ Kubest:
   Image: kubest
   ImageTag: latest-dev
   Volumes:
-    Source: /Users/bryansandoval/projects/kubest
+    ProjectSource: /data
 
 replicaCount: 1
 
