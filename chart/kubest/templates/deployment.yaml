@@ -41,7 +41,7 @@ spec:
               name: project-source
             - mountPath: /home/node/.npm
               name: npm-location
-            - mountPath: /src/node_modules
+            - mountPath: /src/deployments/submodules/kubest/node_modules
               name: node-modules
           ports:
             - name: http
